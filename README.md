@@ -6,7 +6,7 @@
 1) git clone https://github.com/thedrjbot/Eye-banner
 
 
-2) cd Termux-Banner
+2) cd Eye-banner
 
 
 3) chmod +x requirement.sh
